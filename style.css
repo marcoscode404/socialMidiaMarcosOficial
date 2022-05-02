@@ -112,7 +112,7 @@ body {
 	justify-content: center;
 	align-items: center;
 	gap: 1rem;
-	background: url(./download.jfif) center no-repeat;
+	background: url(./img3.png) center no-repeat;
 	background-size: cover;
 	
 }
@@ -129,11 +129,14 @@ body {
 	text-decoration: none;
 	width: 100%;
 	filter: brightness(10px);
+	margin-left: 1rem;
+	gap: 1rem;
 }
 
 .content ul li a:hover{
 	color: rgb(241, 21, 230);
 }
+
 
 
 
