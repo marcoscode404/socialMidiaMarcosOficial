@@ -112,6 +112,8 @@ body {
 	justify-content: center;
 	align-items: center;
 	gap: 1rem;
+	background: url(./download.jfif) center no-repeat;
+	background-size: cover;
 	
 }
 
@@ -119,6 +121,7 @@ body {
 	width: 10rem;
 	list-style: none;
 	text-decoration: none;
+
 }
 
 .content ul li a {
@@ -126,6 +129,10 @@ body {
 	text-decoration: none;
 	width: 100%;
 	filter: brightness(10px);
+}
+
+.content ul li a:hover{
+	color: rgb(241, 21, 230);
 }
 
 
@@ -188,7 +195,7 @@ body {
 		width: 100%;
 	}
 	.perspective {
-		margin-top: 2rem;
+		margin: .5rem .1rem;
 		flex-direction: column-reverse;
 	}
   }
