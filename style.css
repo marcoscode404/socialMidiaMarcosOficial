@@ -10,7 +10,7 @@
 }
 
 :root{
-	--green-100: rgba(47, 189, 12, 0.719);
+	--green-100: rgba(206, 13, 196, 0.719);
 }
 
 body {
@@ -133,6 +133,7 @@ body {
 
 .card .img {
 	width: 100px;
+	height: 100px;
 	position: absolute;
 	top: 10px;
 	left: 30%;
@@ -142,6 +143,21 @@ body {
 	font-weight: 600;
 	transform: translateZ(35px);
 	padding: 1.5px;
+
+
+	
+	background: url(/logo.jfif) center no-repeat;
+	background-size: cover;
+	
+	
+	
+	
+
+	transform-style: preserve-3d;
+	transition: transform .05s linear;
+	
+
+
 }
 
 .card .thumb h2 {
