@@ -242,7 +242,9 @@ body {
 		height: 100%;
 	}
 	.loader {
-		top: 50%;
+		top: 85%;
+		width: 5rem;
+		height: 5rem;
 	}
   }
 
