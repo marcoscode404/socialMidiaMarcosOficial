@@ -33,7 +33,7 @@ body {
 
 	padding: 1rem;
 	border-radius: 8px;
-	border: 1px solid #4CD2F1;
+	border: 1px solid #4395FF;
 }
 
 .container {
@@ -59,7 +59,7 @@ body {
 	box-shadow: 0 70px 60px -60px #494848;
 	transform-style: preserve-3d;
 	transition: transform .05s linear;
-	border: 2px solid #4CD2F1;
+	border: 2px solid #4395FF;
 	border-radius: 10px;
 	
 }
@@ -180,7 +180,7 @@ body {
 .img > img {
 	width: 10rem;
 	border-radius: 100%;
-	border: 3px solid #fff;
+	border: 3px solid #4395FF;
 	padding: .5rem;
 	
 }
